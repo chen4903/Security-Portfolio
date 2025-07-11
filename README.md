@@ -4,7 +4,7 @@
 
 - Cantina
   - Profile: [LEVI-104](https://cantina.xyz/u/LEVI-104)
-  - Total Earn: $475
+  - Total Earn: $504
 - Code4rena
   - Profile: [@levi_104](https://code4rena.com/@levi_104)
   - Total Earn: $0.1
@@ -16,10 +16,11 @@
 
 ### Cantina
 
-| Time    | **Name**                  | **Type**  | **Languages** | **Finding** | Rank   | Reference                                                    |
-| ------- | ------------------------- | --------- | ------------- | ----------- | ------ | ------------------------------------------------------------ |
-| 2025-04 | Mighty Finance            | Leveraged | Solidity      | 1 High      | 20/629 | [Link](https://cantina.xyz/competitions/616d8bb4-16ce-4ca9-9ce9-5b99d6e146ef) |
-| 2025-05 | primev-validator-registry | MEV       | Solidity      | 1 High      | 6/323  | [Link](https://cantina.xyz/competitions/e92be0b9-b4f2-4bf2-9544-ae285fcfc02d) |
+| Time    | **Name**                  | **Type**     | **Languages** | **Finding** | Rank   | Reference                                                    |
+| ------- | ------------------------- | ------------ | ------------- | ----------- | ------ | ------------------------------------------------------------ |
+| 2025-04 | Mighty Finance            | Leveraged    | Solidity      | 1 High      | 20/629 | [Link](https://cantina.xyz/competitions/616d8bb4-16ce-4ca9-9ce9-5b99d6e146ef) |
+| 2025-05 | primev-validator-registry | MEV          | Solidity      | 1 High      | 6/323  | [Link](https://cantina.xyz/competitions/e92be0b9-b4f2-4bf2-9544-ae285fcfc02d) |
+| 2025-05 | mystic-monorepo           | Leverage/RWA | Solidity      | 1 High      | 62/522 | [Link](https://cantina.xyz/competitions/c160af78-28f8-47f7-9926-889b3864c6d8) |
 
 ### Code4rena
 
