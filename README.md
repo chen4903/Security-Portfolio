@@ -7,10 +7,7 @@
   - Total Earn: $504
 - Code4rena
   - Profile: [@levi_104](https://code4rena.com/@levi_104)
-  - Total Earn: $0.1
-- Summary
-  - High: 3
-  - Medium: 2
+  - Total Earn: $416
 
 ## Competitions
 
@@ -29,6 +26,7 @@
 | 2024-11 | Concrete | Derivatives |    Solidity      |Private: 1 Medium|126/136+|[Link](https://code4rena.com/audits/2024-11-concrete)|
 | 2024-12 | SecondSwap | DEX |    Solidity      | 1 High | 169/181+ | [Link](https://code4rena.com/audits/2024-12-secondswap) |
 | 2025-02 | Liquid Ron | ERC4626 | Solidity | 1 Medium    | 161/233+ | [Link](https://code4rena.com/audits/2025-01-liquid-ron) |
+| 2025-04 | Virtuals Protocol | AI Agent & Game | Solidity | 2 High 3 Medium | 21/107+ | [Link](https://code4rena.com/audits/2025-04-virtuals-protocol) |
 
 ## Bounty
 
