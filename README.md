@@ -23,7 +23,7 @@
 
 | Time      | **Name**             | **Type**             | **Languages**  | **Finding**         | Rank     | Reference |
 |----------------------|----------------------|---------------------|---------------------|---------------------|---------------------|---------------------|
-| 2024-11 | Concrete | Derivatives |    Solidity      |Private: 1 Medium|126/136+|[Link](https://code4rena.com/audits/2024-11-concrete)|
+| 2024-11 | Concrete | Derivatives |    Solidity      |1 Medium|126/136+|[Link](https://code4rena.com/audits/2024-11-concrete)|
 | 2024-12 | SecondSwap | DEX |    Solidity      | 1 High | 169/181+ | [Link](https://code4rena.com/audits/2024-12-secondswap) |
 | 2025-02 | Liquid Ron | ERC4626 | Solidity | 1 Medium    | 161/233+ | [Link](https://code4rena.com/audits/2025-01-liquid-ron) |
 | 2025-04 | Virtuals Protocol | AI Agent & Game | Solidity | 2 High 3 Medium | 21/107+ | [Link](https://code4rena.com/audits/2025-04-virtuals-protocol) |
@@ -35,4 +35,16 @@
 | Time    | **Name** | **Type** | **Languages** | **Finding**     | Rank |
 | ------- | -------- | -------- | ------------- | --------------- | ---- |
 | 2025-03 | Xterio   | Staking  | Solidity      | High but Repeat | /    |
+
+## With Team
+
+| Team                                                      | Time    | **Name** | **Type**                  | **Languages** | **Finding**     | Reference |
+| --------------------------------------------------------- | ------- | -------- | ------------------------- | ------------- | --------------- | --------- |
+| [Verilog Solutions](https://github.com/Verilog-Solutions) | 2025-07 | Bitty    | Oracle + ERC721 Insurance | Go + Solidity | 1 High 1 Medium | Pending   |
+
+
+
+
+
+
 
