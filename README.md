@@ -40,7 +40,7 @@
 
 | Team                                                      | Time    | **Name** | **Type**                  | **Languages** | **Finding**     | Reference |
 | --------------------------------------------------------- | ------- | -------- | ------------------------- | ------------- | --------------- | --------- |
-| [Verilog Solutions](https://github.com/Verilog-Solutions) | 2025-07 | Bitty    | Oracle + ERC721 Insurance | Go + Solidity | 1 High 1 Medium | Pending   |
+| [Verilog Solutions](https://github.com/Verilog-Solutions) | 2025-07 | Bitty    | Oracle + ERC721 Insurance | Go + Solidity | 1 High 2 Medium | Pending   |
 
 
 
