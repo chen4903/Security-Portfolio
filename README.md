@@ -28,13 +28,6 @@
 | 2025-02 | Liquid Ron | ERC4626 | Solidity | 1 Medium    | 161/233+ | [Link](https://code4rena.com/audits/2025-01-liquid-ron) |
 | 2025-04 | Virtuals Protocol | AI Agent & Game | Solidity | 2 High 3 Medium | 21/107+ | [Link](https://code4rena.com/audits/2025-04-virtuals-protocol) |
 
-## Bounty
-
-### Immunefi
-
-| Time    | **Name** | **Type** | **Languages** | **Finding**     | Rank |
-| ------- | -------- | -------- | ------------- | --------------- | ---- |
-| 2025-03 | Xterio   | Staking  | Solidity      | High but Repeat | /    |
 
 ## With Team
 
