@@ -33,8 +33,9 @@
 
 | Team                                                      | Time    | **Name** | **Type**                  | **Languages** | **Finding**     | Reference |
 | --------------------------------------------------------- | ------- | -------- | ------------------------- | ------------- | --------------- | --------- |
-| [Verilog Solutions](https://github.com/Verilog-Solutions) | 2025-07 | Bitty    | Oracle + ERC721 Insurance | Go + Solidity | 1 High 2 Medium | Pending   |
-
+| [Verilog Solutions](https://github.com/Verilog-Solutions) | 2025-07 | Bitty    | Oracle + ERC721 Insurance | Go + Solidity | 1 High 2 Medium | Private   |
+| [Verilog Solutions](https://github.com/Verilog-Solutions) | 2026-08 | Tenbin   | CCIP Bridge | Solidity | 1 Medium | Private   |
+| [Verilog Solutions](https://github.com/Verilog-Solutions) | 2026-08 | Bitty    | Vault | Solidity | 6 High 13 Medium | [Link](https://github.com/BittyIO/vault/blob/develop/audits/verilog/Bitty_Vault_Audit_Report.pdf)    |
 
 
 
